@@ -7,7 +7,7 @@
     "test": "./node_modules/.bin/mocha ./test"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hong Zhou, <hollyzhou.hi@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "chai": "^3.5.0",
