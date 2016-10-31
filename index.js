@@ -1,4 +1,4 @@
-function zigzag(text, nRows) {
+function zigZag(text, nRows) {
 	if (typeof text !== 'string') throw new Error('Input text must be string.');
 	if (typeof nRows !== 'number') throw new Error('Input nRows must be number.');
 
@@ -12,4 +12,4 @@ function zigzag(text, nRows) {
 	return arr.join('');
 }
 
-module.exports =  zigzag;
+module.exports =  zigZag;
